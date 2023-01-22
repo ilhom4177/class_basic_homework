@@ -8,3 +8,4 @@ from create_one_attribute import Person
 p1 = Person("Davron")
 p2 = Person("Nurbek")
 p3 = Person("Qobiljon")
+persons = [p1, p2, p3]
